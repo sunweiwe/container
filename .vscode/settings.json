@@ -1,0 +1,15 @@
+{
+  "todo-tree.tree.scanMode": "workspace",
+  "todo-tree.tree.showCountsInTree": true,
+  "cSpell.words": [
+    "cgclear",
+    "cgroups",
+    "containerresolv",
+    "lowerdir",
+    "memsw",
+    "resolv",
+    "Sethostname",
+    "tmpfs",
+    "upperdir"
+  ]
+}
